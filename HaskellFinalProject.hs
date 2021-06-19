@@ -2,10 +2,10 @@ import Data.List
 import Data.Char
 
 {-
-	Authors: Colton Bailey, Erica Baynor, and Jeffrey Mosteller
+	Author: Colton Bailey
 	Last Update: May 2nd, 2021
 
-	This is our Search-and-Replace program. The main purpose of this program is to search a file
+	This is a Search-and-Replace program. The main purpose of this program is to search a file
 	and replace a specified String with another with the assistance of regular expressions.
 -}
 
